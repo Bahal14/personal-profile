@@ -148,7 +148,7 @@ export default function ContactSection() {
                     <FiPhone className="w-2.5 h-2.5 md:w-3 md:h-3" />
                   </span>
                   <span className="text-xs md:text-xs">
-                    0812-3456-7890 {/* Telepon Anda */}
+                    0881-6579-468 {/* Telepon Anda */}
                   </span>
                 </div>
                 <div className="flex items-center gap-2">
