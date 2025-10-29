@@ -1,0 +1,14 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  /* Anda bisa menambahkan warna teks default di sini jika mau, tapi lebih baik di App.jsx */
+  /* @apply text-gray-900; */
+}
