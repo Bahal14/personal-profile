@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bahal14/personal-profile/static/css/main.da334746.css",
+    "main.js": "/Bahal14/personal-profile/static/js/main.ba09ec4f.js",
+    "static/js/453.5475b0e3.chunk.js": "/Bahal14/personal-profile/static/js/453.5475b0e3.chunk.js",
+    "static/media/project2.gif": "/Bahal14/personal-profile/static/media/project2.c67f84cd729b6f99dbd8.gif",
+    "static/media/project1.gif": "/Bahal14/personal-profile/static/media/project1.50d3c4f9da6e014172c2.gif",
+    "static/media/project3.gif": "/Bahal14/personal-profile/static/media/project3.0404b49b4a77290fba8f.gif",
+    "static/media/profile.png": "/Bahal14/personal-profile/static/media/profile.1ba6de416cef85c88428.png",
+    "static/media/testimonial1.jpeg": "/Bahal14/personal-profile/static/media/testimonial1.6414a0615ff8c4cdbd66.jpeg",
+    "static/media/testimonial2.jpeg": "/Bahal14/personal-profile/static/media/testimonial2.fdec7e9fd92a3ec7fe1f.jpeg",
+    "index.html": "/Bahal14/personal-profile/index.html",
+    "main.da334746.css.map": "/Bahal14/personal-profile/static/css/main.da334746.css.map",
+    "main.ba09ec4f.js.map": "/Bahal14/personal-profile/static/js/main.ba09ec4f.js.map",
+    "453.5475b0e3.chunk.js.map": "/Bahal14/personal-profile/static/js/453.5475b0e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da334746.css",
+    "static/js/main.ba09ec4f.js"
+  ]
+}
